@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_7","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":2,"value":1},{"code":51,"dataId":4,"value":1},{"code":51,"dataId":5,"value":1},{"code":51,"dataId":6,"value":1},{"code":51,"dataId":7,"value":1},{"code":51,"dataId":9,"value":1},{"code":51,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"玩家","nickname":"","note":"","profile":""}
+]
